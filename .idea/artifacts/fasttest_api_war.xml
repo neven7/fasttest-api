@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="fasttest-api:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="fasttest-api.war">
+      <element id="artifact" artifact-name="fasttest-api:war exploded" />
+    </root>
+  </artifact>
+</component>
